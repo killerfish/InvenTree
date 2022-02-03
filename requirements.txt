@@ -44,4 +44,4 @@ rapidfuzz==0.7.6                # Fuzzy string matching
 tablib[xls,xlsx,yaml]           # Support for XLS and XLSX formats
 weasyprint==52.5                # PDF generation library (Note: in the future need to update to 53)
 psycopg2==2.9.3                 # Postgres connector
-django_heroku=0.3.1             # Django support for Heroku
+django_heroku==0.3.1             # Django support for Heroku
